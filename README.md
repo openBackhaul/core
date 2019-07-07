@@ -2,32 +2,15 @@
 Core Information Model that consolidates all technology specific extension
 
 ### Branch
-- Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
-- 1.0.0-tsp.d.t : Model for the Transport SDN Pilot at Telefonica Germany
+- Martin Skorupski (Martin Skorupski@openBackhaul.com)
+- 1.4.1-tsp.d.t : Core Model for the Transport SDN Pilot at Telefonica Germany
 
 ### UML
 - To be provided
 
-### Overview 
-- See Publication
-
-### List of Classes
-- not provided
-
-### GenDoc Export
-- See Publication
-
 ### YANG File
-- To be provided
-
-### Interface Simulator
-- not planned
-
-### Interface Validator
-- not planned
-
-### Publication
-- zip file of pdf to be provided
+- Martin Skorupski
+- [CoreModel_1.4.1_tsp.190552.yang.1](./CoreModel_1.4.1_tsp.190552.yang.1.zip)
 
 ### Aspired Model Classification
 - Trial
