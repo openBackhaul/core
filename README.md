@@ -10,7 +10,7 @@ Core Information Model that consolidates all technology specific extension
 
 ### YANG File
 - Martin Skorupski
-- [CoreModel_1.4.1_tsp.190552.yang.1](./CoreModel_1.4.1_tsp.190552.yang.1.zip)
+- [CoreModel_1.4.1_tsp.190525+yang.2](./CoreModel_1.4.1_tsp.190525+yang.2.zip)
 
 ### Aspired Model Classification
 - Trial
