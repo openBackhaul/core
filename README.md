@@ -2,7 +2,7 @@
 Core Information Model that consolidates all technology specific extension
 
 ### Branch
-- Martin Skorupski (Martin Skorupski@openBackhaul.com)
+- Martin Skorupski (Martin.Skorupski@openBackhaul.com)
 - 1.4.1-tsp.d.t : Core Model for the Transport SDN Pilot at Telefonica Germany
 
 ### UML
