@@ -12,6 +12,7 @@ Core Information Model that consolidates all technology specific extension
 ### YANG File
 - Martin Skorupski (Martin.Skorupski@openBackhaul.com)
 - [CoreModel_1.4.1_tsp.191122.2040+yang.2](./CoreModel_1.4.1_tsp.191122.2040+yang.2.zip)
+- Release candidate #1 [CoreModel_1.4.1_tsp.211221.1359+yang.2](./CoreModel_1.4.1_tsp.211221.1359+yang.2.zip)
 
 ### Aspired Model Classification
 - Trial
