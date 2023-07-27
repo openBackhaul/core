@@ -1,21 +1,24 @@
-# core
-Core Information Model that consolidates all technology specific extension
+# Core Information Model 1.4.1  
+- Core Information Model that consolidates all technology specific extension   
+- Martin Skorupski (Martin.Skorupski@openBackhaul.com)  
 
-### Branch
-- Martin Skorupski (Martin.Skorupski@openBackhaul.com)
-- 1.4.1-tsp.d.t : Core Model for the Transport SDN Pilot at Telefonica Germany
+### Branch  
+- 1.4.1-tsi.d.t : Core Model for the Transport SDN Introduction at Telefonica Germany  
 
-### YANG File
-- Martin Skorupski (Martin.Skorupski@openBackhaul.com)
-- [CoreModel_1.4.1_tsp.191122.2040+yang.2](./CoreModel_1.4.1_tsp.191122.2040+yang.2.zip)
-- Release candidate #1 [CoreModel_1.4.1_tsp.211221.1359+yang.2](./CoreModel_1.4.1_tsp.211221.1359+yang.2.zip)
-- Release candidate #2 [CoreIm_2.0.0-tsp.230712.1725+yang.1](./CoreIm_2.0.0-tsp.230712.1725+yang.1.zip)
+### UML  
+- [ONF CoreIM 1.4](./ONF_CoreIM_1.4+.zip)  
 
-### Aspired Model Classification
-- Trial
+### YANG File  
+- [CoreModel_1.4.1-tsi.230726.1645+yang.1](./CoreModel_1.4.1-tsi.230726.1645+yang.1.zip)  
+
+### Publication  
+- Candidate for ONF TR-532 v2.0  
+
+### Aspired Model Classification  
+- Live Network  
 
 ### Open Issue List
-- 
+- [core/issues](../../issues)
 
 ### Comments
-./.
+The YANG file that is published here is resulting from pruning and refactoring the UML model of the ONF CoreIM 1.4 incl. some extensions as for example Profiles, ExpectedEquipment and ActualEquipment.  
